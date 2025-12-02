@@ -4,7 +4,7 @@ import "./Hero.css";
 const Hero = () => {
   return (
     <>
-      <section className="hero-wrapper flexCenterStart">
+      <section className="hero-wrapper flexCenterStart" id="home">
         <div className="main-hero-container flexColStart innerWidth">
           <div className="justify-gap-hero flexColStart innerWidth">
             <div className="hero-contrainer flexColStart paddings innerWidth">

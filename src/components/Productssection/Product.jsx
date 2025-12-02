@@ -6,7 +6,7 @@ import './Product.css'
 // import { FaProductHunt } from 'react-icons/fa';
 const Product = () => {
   return <>
-    <section className='product-wrapper'>
+    <section className='product-wrapper' id='products'>
         <div className='product-container paddings innerWidth'>
             <div className='product-content'>
                 <div className='product-headings paddings' >

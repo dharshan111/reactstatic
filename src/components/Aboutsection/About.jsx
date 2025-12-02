@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css'
 const About = () => {
   return <>
-    <section className='about-wrapper flexCenterStart'> 
+    <section className='about-wrapper flexCenterStart' id='about'> 
         <div className='about-container innerWidth paddings'>
             <div className='about-header flexColStart'>
                 <span className='primaryText'>See our client's</span>

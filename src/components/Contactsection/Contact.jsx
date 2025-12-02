@@ -4,7 +4,7 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <>
-      <section className="contact-wrapper">
+      <section className="contact-wrapper" id="contact">
         <div className="contact container paddings innerWidth">
           <div className="contact-section flexCenter">
             <h1 className="primaryText">Let's Join Together</h1>
