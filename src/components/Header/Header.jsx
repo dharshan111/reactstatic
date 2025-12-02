@@ -25,11 +25,11 @@ const Header = () => {
 
             {/* Menu Items */}
             <div className={`header-path ${isOpen ? "open" : ""}`}>
-              <a href="home">Home</a>
-              <a href="about">About</a>
-              <a href="products">Products</a>
-              <a href="testimonial">Testimonials</a>
-              <a href="contact">Contacts</a>
+              <a href="#home">Home</a>
+              <a href="#about">About</a>
+              <a href="#products">Products</a>
+              <a href="#testimonial">Testimonials</a>
+              <a href="#contact">Contacts</a>
             </div>
 
             <div className="header-section-end">
