@@ -2,7 +2,7 @@ import React from 'react'
 import './Test.css'
 const Test = () => {
   return <>
-    <section className='Testimonials-wrapper' id='testimonial'>
+    <section className='Testimonials-wrapper' id='about'>
         <div className='Testimonials-container paddings innerWidth flexCenterStart'>
             <div className='Testimonial-head flexCenterStart'>
                 <h2 className="primaryText">About Us</h2>
