@@ -45,6 +45,11 @@ input{
     gap: 20px;
 }
 
+.contact{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 
 @media(max-width:640px){
     .contact-image-content{
